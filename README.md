@@ -17,7 +17,7 @@
 
   🐱‍💻 Im learned.. **c++, Java, Python**
   
-  ㅤㅤㅤㅤㅤㅤ ㅤ 
+  
   🐱‍💻 Im learning.. **JavaScript Nodejs Django** 🐱‍💻  
   
   
