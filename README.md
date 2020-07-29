@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
-  🐱‍💻 <div style="font-weight: 500;"> Im learning..</div> c++ Java Pythonㅤㅤㅤㅤㅤㅤ ㅤ 
-  🐱‍💻 JavaScript Nodejs Django 🐱‍💻
+  🐱‍💻 Im learned.. **c++, Java, Python**ㅤㅤㅤㅤㅤㅤ ㅤ 
+  🐱‍💻 Im learning.. **JavaScript Nodejs Django** 🐱‍💻  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyywon&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
