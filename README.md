@@ -15,7 +15,11 @@
 - ⚡ Fun fact: ...
 -->
 
-  🐱‍💻 Im learned.. **c++, Java, Python**  ㅤㅤㅤㅤㅤㅤ ㅤ 
+  🐱‍💻 Im learned.. **c++, Java, Python**
+  
+  ㅤㅤㅤㅤㅤㅤ ㅤ 
   🐱‍💻 Im learning.. **JavaScript Nodejs Django** 🐱‍💻  
+  
+  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyywon&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
