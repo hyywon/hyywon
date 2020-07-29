@@ -15,5 +15,5 @@
 - ⚡ Fun fact: ...
 -->
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyywon&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyywon&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
