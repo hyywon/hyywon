@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
->🐱‍💻 Im learned.. **c++, Java, Python** <br>
+>🐱‍💻 Im learned.. **c, c++, Java, Python, Html** <br>
 >🐱‍💻 Im learning.. **JavaScript, Nodejs, Django, MySQL** 🐱‍💻<br>
 >🐱‍💻 Im attending .. **Soonchunhyang Univ** now <br>
 
