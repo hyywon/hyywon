@@ -1,6 +1,6 @@
 ### Hi Im Yewon 🐱‍💻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B9EC92&title_bg=%23555555&icon=&icon_color=%23FFFF8F&title=hi&edge_flat=false)](https://github.com/hyywon)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyywon%2Fhit-counter&count_bg=%23B9EC92&title_bg=%23555555&icon=&icon_color=%23FFFF8F&title=hi&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **hyywon/hyywon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
