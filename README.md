@@ -1,33 +1,39 @@
-### Hi Im Yewon 🐱‍💻
+**Hi Im Yewon 🐱‍💻**
 
-<p align='center'><strong>📧Contact</strong></p>
+## 📧 Contact
 <p align='center'>
   <!-- gmail -->
   <img src="https://img.shields.io/badge/noddy0501@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
 
 <!-- 기술 스택 -->
-## 💻 Tech Stacks
+## 📌 Tech Stacks
 
-<p>
+<p align='center'>
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logoColor=white"/>
 </p>
-<p>
+<p align='center'>
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-<p>
+<p align='center'>
 <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=flat-square&logo=amazon%20aws&logoColor=white" />
 <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=flat-square&logo=linux&logoColor=black" />
 </p>
-<p>
+<p align='center'>
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=flat-square&logo=django&logoColor=white" />
 </p>
+
+## 💼 Experience
+- **BranXFitness** [2021.11 - 2024.10]
+- **Paradive** [2024.11 - 재직중]
+
+## Cards
 
 <table>
 <tr>
