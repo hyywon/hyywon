@@ -1,8 +1,53 @@
 ### Hi Im Yewon 🐱‍💻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyywon%2Fhit-counter&count_bg=%23B9EC92&title_bg=%23555555&icon=&icon_color=%23FFFF8F&title=hi&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align='center'><strong>📧Contact</strong></p>
+<p align='center'>
+  <!-- gmail -->
+  <img src="https://img.shields.io/badge/noddy0501@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</p>
 
-> 💻 **Java, SpringBoot, Mysql, MongoDB, Python, Django.. etc** <br>
+<!-- 기술 스택 -->
+## 💻 Tech Stacks
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyywon&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=flat-square&logo=amazon%20aws&logoColor=white" />
+<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=flat-square&logo=linux&logoColor=black" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/django-%23092E20.svg?&style=flat-square&logo=django&logoColor=white" />
+</p>
 
+<table>
+<tr>
+  <td>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=hyywon&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=hyywon&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=hyywon&show_icons=true" alt="GitHub Stats" />
+    </picture>
+  </td>
+  <td>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyywon&layout=compact&hide=html,css,scss,less,ejs,jupyter%20notebook,pug,ruby,javascript,vue&theme=dark" alt="Top Languages" />
+    </a>
+  </td>
+</tr>
+</table>
